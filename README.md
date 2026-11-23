@@ -1,4 +1,4 @@
-# Candy analysis for Lidl
+# Candy analysis
 
 Which characteristics drive candy preference, and which new store-brand candy should Lidl prototype?
 
